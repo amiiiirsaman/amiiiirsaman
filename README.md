@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amiiiirsaman
 - 👀 I’m interested in data science & business analysis
 - 💞️ I’m looking to collaborate on data science projects
-- 📫 amirsaman@knights.ucf.edu
+- 📫 amirsaman@knights.ucf.edu - mahdavian.me
 
 <!---
 amiiiirsaman/amiiiirsaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
