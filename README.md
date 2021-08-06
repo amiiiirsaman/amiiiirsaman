@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amiiiirsaman
+- 👋 Hi, I’m Sam
 - 👀 I’m interested in data science & business analysis
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 amirsaman@knights.ucf.edu - https://www.mahdavian.me/
