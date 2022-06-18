@@ -1,13 +1,10 @@
-# **Nicholas Obert**
+# **Sam Mahdavian**
 
-<h3 align="center">Passionate about creating smart and scalable solutions for real-world applications integrating AI/ML, Business Analysis & Project Management!</h3>
+I'm Passionate about creating **smart** and **scalable solutions** for real-world applications integrating AI/ML, Business Analysis & Project Management!
 
-- 👨‍💻 All of my projects are available at [mahdavian.me](mahdavian.me)
-
-- 💬 Ask me about **Machine learning, Python, SQL, Business, Project Management**
-
-- 📫 How to reach me **smahdaviann@gmail.com**
-
+- 💻 All of my projects are available at [mahdavian.me](mahdavian.me)
+- 🧠 **Machine Learning, Python, SQL, Business Analysis, & Project Management** Enthusiast 
+- 📫 **Email me at smahdaviann@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/amirsaman-sam-mahdavian/](https://www.linkedin.com/in/amirsaman-sam-mahdavian/)
 
 <h3 align="left">Connect with me:</h3>
