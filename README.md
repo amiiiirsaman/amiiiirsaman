@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sam Mahdavian</h1>
+# **Nicholas Obert**
+
 <h3 align="center">Passionate about creating smart and scalable solutions for real-world applications integrating AI/ML, Business Analysis & Project Management!</h3>
 
 - 👨‍💻 All of my projects are available at [mahdavian.me](mahdavian.me)
