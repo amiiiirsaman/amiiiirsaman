@@ -1,12 +1,12 @@
 # Sam (Amirsaman) Mahdavian, PhD
 
-### Agentic AI that solves the business problem — tested, governed, and safe in regulated production.
+### Agentic AI that solves the business problem - tested, governed, and safe in regulated production.
 
-Director of Data Science & AI. I take agentic systems from a blank page to production inside regulated enterprises and own the outcome — not the demo. The bar I hold every system to is simple: does it solve a real business problem, is it evaluated against real cases, and is it safe to run?
+Director of Data Science & AI. I take agentic systems from a blank page to production inside regulated enterprises and own the outcome - not the demo. The bar I hold every system to is simple: does it solve a real business problem, is it evaluated against real cases, and is it safe to run?
 
-I built and commercialized a patented GenAI document-intelligence platform (Doczy.ai) to a **$40M+ revenue line** and **$330M+ in client savings**, with a published AWS reference architecture. Across healthcare, finance, and government I've shipped **30+ systems and 110+ specialized agents** — and I run the ~$1.3M program, governance, and go-to-market that make them stick.
+I built and commercialized a patented GenAI document-intelligence platform (Doczy.ai) to a **$40M+ revenue line** and **$330M+ in client savings**, with a published AWS reference architecture. Across healthcare, finance, and government I've shipped **30+ systems and 110+ specialized agents** - and I run the ~$1.3M program, governance, and go-to-market that make them stick.
 
-`PhD — ML / applied AI` · `PMP` · `PMI-PBA` · **Open to Director / Staff+ / AI Solutions roles · remote-first · U.S.**
+`PhD - ML / applied AI` · `PMP` · `PMI-PBA`
 
 ---
 
@@ -14,7 +14,7 @@ I built and commercialized a patented GenAI document-intelligence platform (Docz
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sammahdavian.ai-155F58?style=flat-square&logo=googlechrome&logoColor=white)](https://sammahdavian.ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mahdavian--sam-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdavian-sam/)
-[![Google Scholar](https://img.shields.io/badge/Scholar-438%20citations-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=DI4-4N0AAAAJ)
+[![Google Scholar](https://img.shields.io/badge/Scholar-443%20citations-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=DI4-4N0AAAAJ)
 [![AWS Blog](https://img.shields.io/badge/AWS%20Architecture%20Blog-Doczy.ai-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/blogs/architecture/automating-contract-intelligence-with-doczy-ai-on-aws/)
 [![Email](https://img.shields.io/badge/Email-smahdaviann@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:smahdaviann@gmail.com)
 
@@ -39,12 +39,12 @@ I built and commercialized a patented GenAI document-intelligence platform (Docz
 
 Multi-agent systems I've built and taken to production. (Client identities withheld; the engineering is mine.)
 
-- **Multi-agent fraud investigation** — a LangGraph orchestrator coordinating a graph-neural-net risk analyst, an investigator, and a compliance agent over a 3D transaction graph. Catches the rings rules miss.
-- **Agentic credit-risk underwriting** — a Chief Underwriter agent orchestrating 11 specialists across risk, fraud, income, collateral, and compliance. XGBoost + SHAP, every decision explained, regulator-ready.
-- **MCP tool-calling financial SaaS** — CrewAI analysts wired to Model Context Protocol tools (SEC filings, market metrics) with a governance layer.
-- **Document & contract intelligence** — the pipeline behind a patented platform: OCR → extraction → 200+ optimized prompts, audit-ready at 99%+ accuracy.
-- **Observability for agents** — full LangFuse tracing across a multi-agent crew, with a ~40% LLM-cost reduction.
-- **Modern AI Academy** — where I teach how agentic AI actually gets built and shipped.
+- **Multi-agent fraud investigation** - a LangGraph orchestrator coordinating a graph-neural-net risk analyst, an investigator, and a compliance agent over a 3D transaction graph. Catches the rings rules miss.
+- **Agentic credit-risk underwriting** - a Chief Underwriter agent orchestrating 11 specialists across risk, fraud, income, collateral, and compliance. XGBoost + SHAP, every decision explained, regulator-ready.
+- **MCP tool-calling financial SaaS** - CrewAI analysts wired to Model Context Protocol tools (SEC filings, market metrics) with a governance layer.
+- **Document & contract intelligence** - the pipeline behind a patented platform: OCR → extraction → 200+ optimized prompts, audit-ready at 99%+ accuracy.
+- **Observability for agents** - full LangFuse tracing across a multi-agent crew, with a ~40% LLM-cost reduction.
+- **Modern AI Academy** - where I teach how agentic AI actually gets built and shipped.
 
 > 🔭 The full case-study portfolio (16 architecture diagrams, 30+ systems) lives at **[sammahdavian.ai](https://sammahdavian.ai)**.
 
@@ -59,4 +59,4 @@ Multi-agent systems I've built and taken to production. (Client identities withh
 
 ### 🧪 Research & IP
 
-U.S. patent (Doczy.ai, 2025) · 20+ peer-reviewed publications · **438 citations**, h-index 9 · featured on the AWS Architecture Blog. Most-cited work: drivers and barriers to connected, automated, shared, and electric vehicles (*IEEE Access*).
+U.S. patent (Doczy.ai, 2025) · 20+ peer-reviewed publications · **443 citations**, h-index 9 · featured on the AWS Architecture Blog. Most-cited work: drivers and barriers to connected, automated, shared, and electric vehicles (*IEEE Access*).
