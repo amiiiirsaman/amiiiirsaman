@@ -6,11 +6,11 @@ Director of Data Science & AI. I take agentic systems from a blank page to produ
 
 I built and commercialized a patented GenAI document-intelligence platform (Doczy.ai) to a **$40M+ revenue line** and **$330M+ in client savings**, with a published AWS reference architecture. Across healthcare, finance, and government I've shipped **30+ systems and 110+ specialized agents** - and I run the ~$1.3M program, governance, and go-to-market that make them stick.
 
-`PhD - ML / applied AI` Â· `PMP` Â· `PMI-PBA`
+`PhD - ML / applied AI` | `PMP` | `PMI-PBA`
 
 ---
 
-### ðŸ”- Find me
+### Find Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sammahdavian.ai-155F58?style=flat-square&logo=googlechrome&logoColor=white)](https://sammahdavian.ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mahdavian--sam-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdavian-sam/)
@@ -20,7 +20,7 @@ I built and commercialized a patented GenAI document-intelligence platform (Docz
 
 ---
 
-### ðŸ› ï¸ What I build with
+### What I Build With
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
@@ -35,29 +35,29 @@ I built and commercialized a patented GenAI document-intelligence platform (Docz
 
 ---
 
-### ðŸ“Œ Selected work
+### Selected Work
 
 Multi-agent systems I've built and taken to production. (Client identities withheld; the engineering is mine.)
 
 - **Multi-agent fraud investigation** - a LangGraph orchestrator coordinating a graph-neural-net risk analyst, an investigator, and a compliance agent over a 3D transaction graph. Catches the rings rules miss.
 - **Agentic credit-risk underwriting** - a Chief Underwriter agent orchestrating 11 specialists across risk, fraud, income, collateral, and compliance. XGBoost + SHAP, every decision explained, regulator-ready.
 - **MCP tool-calling financial SaaS** - CrewAI analysts wired to Model Context Protocol tools (SEC filings, market metrics) with a governance layer.
-- **Document & contract intelligence** - the pipeline behind a patented platform: OCR â†’ extraction â†’ 200+ optimized prompts, audit-ready at 99%+ accuracy.
+- **Document & contract intelligence** - the pipeline behind a patented platform: OCR -> extraction -> 200+ optimized prompts, audit-ready at 99%+ accuracy.
 - **Observability for agents** - full LangFuse tracing across a multi-agent crew, with a ~40% LLM-cost reduction.
 - **Modern AI Academy** - where I teach how agentic AI actually gets built and shipped.
 
-> ðŸ”­ The full case-study portfolio (16 architecture diagrams, 30+ systems) lives at **[sammahdavian.ai](https://sammahdavian.ai)**.
+> The full case-study portfolio (16 architecture diagrams, 30+ systems) lives at **[sammahdavian.ai](https://sammahdavian.ai)**.
 
 ---
 
-### ðŸ“Š GitHub
+### GitHub
 
 ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=amiiiirsaman&show_icons=true&hide_border=true&title_color=155F58&icon_color=9A7726&theme=default)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amiiiirsaman&layout=compact&hide_border=true&title_color=155F58)
 
 ---
 
-### ðŸ§ª Research & IP
+### Research & IP
 
-U.S. patent (Doczy.ai, 2025) Â· 20+ peer-reviewed publications Â· **443 citations**, h-index 9 Â· featured on the AWS Architecture Blog. Most-cited work: drivers and barriers to connected, automated, shared, and electric vehicles (*IEEE Access*).
+U.S. patent (Doczy.ai, 2025) | 20+ peer-reviewed publications | **443 citations**, h-index 9 | featured on the AWS Architecture Blog. Most-cited work: drivers and barriers to connected, automated, shared, and electric vehicles (*IEEE Access*).
 
