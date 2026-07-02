@@ -1,6 +1,6 @@
-﻿# Sam (Amirsaman) Mahdavian, PhD
+﻿# Sam Mahdavian
 
-### Agentic AI that solves the business problem - tested, governed, and safe in regulated production.
+### Curious mind building production‑grade AI systems. Focused on agentic AI that actually solves business problems - tested, governed, and safe in regulated production.
 
 Director of Data Science & AI. I take agentic systems from a blank page to production inside regulated enterprises and own the outcome - not the demo. The bar I hold every system to is simple: does it solve a real business problem, is it evaluated against real cases, and is it safe to run?
 
